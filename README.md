@@ -1,1 +1,1 @@
-# CS110-Lab-1
+C is my favorite programming language as nothing is abstracted and if you know how to code in C it allows you read any code base in C very easily, unlike other languages, in which, language complexity can add a layer of obfuscation of understanding.
