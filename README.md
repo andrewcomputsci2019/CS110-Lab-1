@@ -1,1 +1,1 @@
-# [user page link](./index)
+# [user page link](./index.md)
