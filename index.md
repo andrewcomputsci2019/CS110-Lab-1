@@ -41,8 +41,8 @@ My personal website can be found [here](https://andrewpegg.dev)
 * Languages
   * C
   * C++ 
-  * ~~ ☕ ~~ Java
-  * ~~ 🐍 ~~ Python 
+  * ~~☕~~ Java
+  * ~~🐍~~ Python 
 * Tools and Services
   * Git
   * AWS EC2
