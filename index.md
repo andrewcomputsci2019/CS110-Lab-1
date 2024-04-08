@@ -8,7 +8,7 @@
     - [Website](#website)
   - [Skills and Favorite Projects](#skills-and-favorite-projects)
     - [skills I have learned](#skills-i-have-learned)
-    - [Things I want to learn or learning](#things-i-want-to-learn-or-learning)
+    - [Things I want to learn or in the processing of learning](#things-i-want-to-learn-or-in-the-processing-of-learning)
     - [Favorite Projects](#favorite-projects)
       - [Web Group Project from Highschool ](#web-group-project-from-highschool-)
       - [PathFinderFX](#pathfinderfx)
@@ -50,7 +50,7 @@ My personal website can be found [here](https://andrewpegg.dev)
   * Podman
   * Docker
   * Kubernetes
-### Things I want to learn or learning
+### Things I want to learn or in the processing of learning
 - [ ] HTMLX
 - [ ] Rust
 - [x] GO
