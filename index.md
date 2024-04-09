@@ -23,7 +23,7 @@
 Hi my name is **Andrew** and I am a first year transfer student at *UCSD*, majoring in Computer Science. Before attending UCSD, I got my A.S in computer science at *MiraCosta College* between 2021 and 2023. San Diego has been the place I have called home for the last 14 years, and before that I have called  Florida and Japan home for some smaller amounts of time.
 ### Interest
 I have many interest inside and outside of computer science and hopeful this section will highlight some of them. Outside of computer science I have a large interest in ***video games***, recently been playing a lot of helldivers, ***photography***,  ***coffee***, and ***Whiskey & craft Beer***. Within computer science a lot of my passion is found within **web technologies**, **theoretical algorithm analysis**, and ***AI search and reasoning***.
-![for democracy]()
+![for democracy](./Resources/a-bit-o-pixels-for-managed-democracy-v0-iub6pr2oodjc1.png.webp)
 
 ### Website
 My personal website can be found [here](https://andrewpegg.dev)
