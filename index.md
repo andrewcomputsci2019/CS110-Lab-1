@@ -78,4 +78,4 @@ A pathfinding visualization algorithm written in JavaFX, that allows for the rea
 *Alan J. Perlis*
 > A language that doesn't affect the way you think about programming is not worth knowing. 
 
-### [Click for surprise]()
+### [Click for surprise](./Resources/vincent.gif)
