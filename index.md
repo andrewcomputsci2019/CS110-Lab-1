@@ -47,8 +47,7 @@ My personal website can be found [here](https://andrewpegg.dev)
   * Git
   * AWS EC2
   * AWS textract
-  * Podman
-  * Docker
+  * ~~Docker~~ Podman
   * Kubernetes
 ### Things I want to learn or in the processing of learning
 - [ ] HTMLX
